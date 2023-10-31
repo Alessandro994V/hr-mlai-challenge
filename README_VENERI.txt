@@ -1,0 +1,3 @@
+In questa cartella ho i risultati delle mie analisi sulle tre challenges. Mi sono focalizzato sulla prima e sulla seconda, in cui ho scritto dei notebook Jupyter funzionanti ed ho ottenuto dei risultati interessanti. La terza è invece solo accennata; non mi è chiaro come svolgerla una volta visti i contenuti dei dati forniti.
+
+All'interno possono essere trovati degli altri "README_VENERI.txt" files dove descrivo il lavoro svolto.
